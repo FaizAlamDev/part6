@@ -3,8 +3,6 @@ import { create } from '../reducers/anecdoteReducer'
 import { notification } from '../reducers/notificationReducer'
 
 const AnecdoteForm = (props) => {
-	// const dispatch = useDispatch()
-
 	const addAnecdote = async (e) => {
 		e.preventDefault()
 		const content = e.target.anecdote.value

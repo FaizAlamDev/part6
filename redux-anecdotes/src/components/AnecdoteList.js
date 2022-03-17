@@ -3,8 +3,16 @@ import { incrementVote } from '../reducers/anecdoteReducer'
 import { notification } from '../reducers/notificationReducer'
 
 const AnecdoteList = () => {
-	const anecdotes = useSelector(({ anecdotes }) =>
-		anecdotes.slice().sort((a, b) => b.votes - a.votes)
+	const anecdotes = useSelector(
+		({ filter, anecdotes }) =>
+			(anecdotes = anecdotes
+				.slice()
+				.sort((a, b) => b.votes - a.votes)
+				.filter((anecdote) =>
+					anecdote.content
+						.toLowerCase()
+						.includes(filter.toLowerCase())
+				))
 	)
 
 	const dispatch = useDispatch()

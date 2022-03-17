@@ -3,12 +3,12 @@
     {
       "content": "If it hurts, do it more often",
       "id": "47145",
-      "votes": 3
+      "votes": 6
     },
     {
       "content": "Adding manpower to a late software project makes it later!",
       "id": "21149",
-      "votes": 0
+      "votes": 9
     },
     {
       "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
@@ -23,57 +23,27 @@
     {
       "content": "Premature optimization is the root of all evil.",
       "id": "25170",
-      "votes": 0
+      "votes": 5
     },
     {
       "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
       "id": "98312",
-      "votes": 1
+      "votes": 0
     },
     {
-      "content": "redux",
-      "votes": 102,
-      "id": "yOSNv8Y"
-    },
-    {
-      "content": "hello redux thunk",
-      "votes": 1,
-      "id": "Qy0Acfb"
-    },
-    {
-      "content": "connect()",
-      "votes": 45,
-      "id": "W5iI1N2"
-    },
-    {
-      "content": "connect()",
+      "content": "Finally it works.",
       "votes": 0,
-      "id": "-6Uhknw"
+      "id": "dTDDFVP"
     },
     {
-      "content": "ehll",
-      "votes": 0,
-      "id": "9EPWrch"
+      "content": "optimization",
+      "votes": 4,
+      "id": "hWidAkN"
     },
     {
-      "content": "eke",
-      "votes": 0,
-      "id": "7fNGasZ"
-    },
-    {
-      "content": "fjdkf",
-      "votes": 0,
-      "id": "v0gCqxh"
-    },
-    {
-      "content": "rjekr",
-      "votes": 0,
-      "id": "B-iFQVT"
-    },
-    {
-      "content": "jfdk",
-      "votes": 0,
-      "id": "GgGXPIX"
+      "content": "All exercises done",
+      "votes": 15,
+      "id": "KreXTL-"
     }
   ]
 }
