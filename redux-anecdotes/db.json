@@ -32,13 +32,18 @@
     },
     {
       "content": "redux",
-      "votes": 10,
+      "votes": 11,
       "id": "yOSNv8Y"
     },
     {
       "content": "hello redux thunk",
       "votes": 1,
       "id": "Qy0Acfb"
+    },
+    {
+      "content": "connect()",
+      "votes": 0,
+      "id": "W5iI1N2"
     }
   ]
 }
